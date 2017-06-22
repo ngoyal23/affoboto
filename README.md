@@ -1,0 +1,2 @@
+# affoboto
+WP Bot
